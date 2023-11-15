@@ -1,5 +1,5 @@
 ## Descripción
-Pagina principal Contafast creado con HTML, CSS, JS, php y laravel 7
+Sistema de facturación electrónica creado con HTML, CSS, JS, php y laravel 7
 
 ## Autor - 
 **Kevilyn Campos Rodriguez**
