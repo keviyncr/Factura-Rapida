@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>database/migrations/2020_05_11_225152_create_expenses_table.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>30</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/FacturaRapida/resources/views/auth/userData.blade.php</file>
+            <file>file:/C:/xampp/htdocs/FacturaRapida/resources/views/auth/companyData.blade.php</file>
+            <file>file:/C:/xampp/htdocs/FacturaRapida/app/Console/Kernel.php</file>
+            <file>file:/C:/xampp/htdocs/FacturaRapida/config/cors.php</file>
+            <file>file:/C:/xampp/htdocs/FacturaRapida/public/index.php</file>
+            <file>file:/C:/xampp/htdocs/FacturaRapida/app/Http/Kernel.php</file>
+            <file>file:/C:/xampp/htdocs/FacturaRapida/app/Http/Controllers/DocumentsController.php</file>
+            <file>file:/C:/xampp/htdocs/FacturaRapida/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/FacturaRapida/app/Http/Controllers/PaymentController.php</file>
+            <file>file:/C:/xampp/htdocs/FacturaRapida/resources/views/auth/purchaseOptions.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
